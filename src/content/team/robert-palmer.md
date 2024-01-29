@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Robert Palmer"
-title: "Marketing Engineer"
+name: "Irfan Kamarul-Zaman"
+title: "Intern"
 avatar: {
-    src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
-    alt: "Robert Palmer"
+    src: "https://media.licdn.com/dms/image/D5603AQFnLhmMPbSdRA/profile-displayphoto-shrink_200_200/0/1701953233217?e=1712188800&v=beta&t=GvZ6vjbMi0Vd-b2TZKkFMBrxQdz4Q1XGqtzdBIT0KEU&fit=crop&w=280",
+    alt: "Irfan Kamarul-Zaman"
 }
-publishDate: "2022-11-09 15:39"
+publishDate: "2024-01-29 23:27"
 ---

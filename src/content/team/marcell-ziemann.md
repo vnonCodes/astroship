@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Marcell Ziemann"
-title: "Principal Strategist"
+name: "Razzan Rosli"
+title: "Business Developer"
 avatar: {
-    src: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?&fit=crop&w=280",
-    alt: "Marcell Ziemann"
+    src: "https://media.licdn.com/dms/image/D5603AQHnU0W9PNaVuA/profile-displayphoto-shrink_200_200/0/1694514887819?e=1712188800&v=beta&t=hddSsTSYnfDhkWMYO_c0FbULN5oRnCXp1fuv1caaBn0&fit=crop&w=280",
+    alt: "Razzan Rosli"
 }
-publishDate: "2022-11-08 15:39"
+publishDate: "2024-01-29 23:25"
 ---
